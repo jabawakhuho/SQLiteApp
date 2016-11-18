@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/love0"  android:duration="1000"/>
+    <item android:drawable="@drawable/love1"  android:duration="1000"/>
+    <item android:drawable="@drawable/love2"  android:duration="1000"/>
+    <item android:drawable="@drawable/love3"  android:duration="1000"/>
+    <item android:drawable="@drawable/love4"  android:duration="1000"/>
+    <item android:drawable="@drawable/love5"  android:duration="1000"/>
+    <item android:drawable="@drawable/love6"  android:duration="1000"/>
+    <item android:drawable="@drawable/love7"  android:duration="1000"/>
+    <item android:drawable="@drawable/love8"  android:duration="1000"/>
+    <item android:drawable="@drawable/love9"  android:duration="1000"/>
+    <item android:drawable="@drawable/love10"  android:duration="1000"/>
+</animation-list>
